@@ -95,6 +95,8 @@ cd public/video-frames
 ffmpeg -i /path/to/your-video.mp4 frame_%06d.png
 ```
 
+This repo includes `scroll-cinema-preview.mp4` in the project root as a demo preview of the app output. It is not intended to be used as the source for frame extraction in this project.
+
 Example (same pattern you used):
 
 ```bash
