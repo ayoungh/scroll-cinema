@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:hsl(155,40%,23.424015424030372%)"/>
+      <stop offset="100%" style="stop-color:hsl(215,60%,33.42401542403037%)"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="720" fill="url(#g)"/>
+  <text x="640" y="340" text-anchor="middle" font-family="monospace" font-size="80" fill="rgba(255,255,255,0.15)" font-weight="bold">FRAME 000234</text>
+  <text x="640" y="400" text-anchor="middle" font-family="monospace" font-size="24" fill="rgba(255,255,255,0.1)">Replace with your video frames</text>
+  <circle cx="828.4444444444445" cy="360" r="4" fill="rgba(255,255,255,0.2)"/>
+</svg>
