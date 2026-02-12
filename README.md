@@ -2,6 +2,8 @@
 
 Scroll Cinema is an immersive, scroll-driven frame player built with Next.js. As users scroll, the app renders a frame sequence to a full-screen canvas to simulate video playback.
 
+https://scroll-cinema.vercel.app/
+
 ## Features
 
 - Scroll-driven frame-by-frame playback on a sticky canvas
